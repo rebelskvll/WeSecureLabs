@@ -16,6 +16,7 @@ El objetivo no sólo es aprender sobre el área de interés de cada estudiante, 
 - Entregar nociones como instalar un sistema operativo. 
 - Mostrar herramientas `Open Source` y de `Software libre` para el desarrollo de tareas.
 - Desarrollar la habilidad para encontrar y depurar errores en un entorno de red.
+- Configurar un entorno de trabajo adecuado para el desarrollo de las labores profesionales.
 ## Prerrequisitos
 
 ### Computador
