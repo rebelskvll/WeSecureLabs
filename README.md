@@ -15,7 +15,7 @@ El objetivo no sólo es aprender sobre el área de interés de cada estudiante, 
 - Repasar los conceptos de redes.
 - Entregar nociones como instalar un sistema operativo. 
 - Mostrar herramientas `Open Source` y de `Software libre` para el desarrollo de tareas.
-- Desarrollar la habilidad para encontrar y depurar errores de un entorno de red.
+- Desarrollar la habilidad para encontrar y depurar errores en un entorno de red.
 ## Prerrequisitos
 
 ### Computador
