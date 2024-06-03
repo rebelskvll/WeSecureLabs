@@ -18,3 +18,7 @@ El objetivo no sólo es aprender sobre el área de interés de cada estudiante, 
 - Desarrollar la habilidad para encontrar y depurar errores de un entorno de red.
 ## Prerrequisitos
 
+### Computador
+ - Sistema operativo: `GNU/Linux`, `Windows`, `MacOS` 
+ - RAM: 24 Gb
+ - 
