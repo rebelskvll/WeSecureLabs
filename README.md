@@ -29,9 +29,7 @@ El objetivo no sólo es aprender sobre el área de interés de cada estudiante, 
 - Frustrarse pero no rendirse
 - Ganas de divertirse
 
-## Entregables
-
-### Informes
+## Informes
 
 Se pedirán dos informes, un informe técnico y un informe gerencial. Dentro de estos informes, estarán contenidos los hallazgos del reto correspondiente. El formato y el estilo utilizado, dependerá de cada uno. El objetivo de estos informes, es dar un poco más de inmersión en la vida profesional, por lo cual se recomienda hacer un informe bien organizado, con buena ortografía y redacción.
 
