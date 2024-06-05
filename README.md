@@ -24,7 +24,7 @@ El objetivo no sólo es aprender sobre el área de interés de cada estudiante, 
  - RAM: 24 Gb
  - Procesador: Entre 4 y 6 núcleos, 2.5 Ghz
  - Disco duro: 250 Gb disponibles
-### Personales
+### Humanos
 - Ganas de aprender
 - Frustrarse pero no rendirse
 - Ganas de divertirse
