@@ -4,3 +4,4 @@ Bienvenidos a su primer reto, cuyo fin es crear un laboratorio de pruebas para l
 
 ![Esquema de red](https://github.com/rebelskvll/WeSecureLabs/blob/main/imagenes/2024-06-05_19-04.png)
 
+<img src="./imagenes/2024-06-05_19-04.png" width="300" />
