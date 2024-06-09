@@ -26,6 +26,7 @@ Bienvenidos a su primer reto, cuyo fin es crear un laboratorio de pruebas para l
 
 Para este laboratorio **sólo se debe redactar el informe técnico** con capturas de pantalla de: 
 - La configuración de la red aislada.
+- La configuración IP de cada máquina.
 - `ping` entre las máquinas `red` y `blue` y hacía la máquina `bug`.
 - El proceso de actualización de la máquina `red` y `blue`.
 - Dificultades encontradas en el proceso.
