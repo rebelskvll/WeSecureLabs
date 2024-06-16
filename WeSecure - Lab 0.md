@@ -4,7 +4,15 @@ Bienvenidos a su primer reto, cuyo fin es crear un laboratorio de pruebas para l
 
 <img src="./imagenes/diagramared.png"/>
 
-## Requerimientos
+## Objetivos
+
+- Dar un acercamiento a la instalación de un entorno de virtualización.
+- Repasar los conceptos de redes.
+- Entregar nociones de cómo instalar un sistema operativo. 
+- Desarrollar la habilidad para encontrar y depurar errores en un entorno de red.
+- Aprender a configurar un entorno de trabajo que se ajuste a las necesidades de cada persona.
+
+## Actividades
 
 - Instalar [Virtualbox](https://www.virtualbox.org/) **Nota:** Esta página está bloqueada en Venezuela, por lo tanto para poder descargar la aplicación se recomienda usar una `VPN` o si lo requieren, alguno de los padrinos puede enviar el instalador según su sistema operativo.
 - Se debe crear una red aislada de la red local en la que se encuentra la máquina `host`
@@ -46,6 +54,7 @@ Para este laboratorio **sólo se debe redactar el informe técnico** con captura
 - El foro y los canales de la comunidad.
 
 ## Extra
+
 - Leer qué es un `supply chain attack` o `ataque a la cadena de suministro`.
 - Leer sobre `vsFTPd 2.3.4`.
 - Leer sobre `nmap`.
