@@ -30,6 +30,7 @@ Para este laboratorio **sólo se debe redactar el informe técnico** con captura
 - La configuración de la red aislada.
 - La configuración IP de cada máquina.
 - `ping` entre las máquinas `red` y `blue` y hacía la máquina `bug`.
+- Realizar un `traceroute` desde la máquina `red` a una dirección de internet y analizar los saltos que hace un paquete para alcanzar el host.
 - El proceso de actualización de la máquina `red` y `blue`.
 - Dificultades encontradas en el proceso.
 - Conclusiones respecto a la creación de la red, la creación del `SOC` y la máquina `red`
