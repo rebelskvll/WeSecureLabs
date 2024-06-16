@@ -46,5 +46,7 @@ Para este laboratorio **sólo se debe redactar el informe técnico** con captura
 - El foro y los canales de la comunidad.
 
 ## Extra
-
-Leer sobre `vsFTPd 2.3.4` 
+- Leer qué es un `supply chain attack` o `ataque a la cadena de suministro`.
+- Leer sobre `vsFTPd 2.3.4`.
+- Leer sobre `nmap`.
+- Leer sobre `metasploit`.
