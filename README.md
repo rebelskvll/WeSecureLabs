@@ -21,7 +21,7 @@ El objetivo no sólo es aprender sobre el área de interés de cada estudiante, 
 
 ### Computador
  - Sistema operativo: `GNU/Linux`, `Windows`, `MacOS` 
- - RAM: 24 Gb
+ - RAM: 18 Gb
  - Procesador: Entre 4 y 6 núcleos, 2.5 Ghz
  - Disco duro: 250 Gb disponibles
 ### Humanos
