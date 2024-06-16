@@ -14,7 +14,8 @@ Bienvenidos a su primer reto, cuyo fin es crear un laboratorio de pruebas para l
 	- [Kali-purple](https://www.kali.org/get-kali/)
 	- [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 - Estas 4 máquinas deben estar dentro de la red aislada y deben tener comunicación entre sí.
-- Actualizar tanto la máquina virtual de Kali y Kali-purple
+- La máquina que identificaremos como `VdB` debe tener bloqueado el acceso a internet.
+- Actualizar tanto la máquina virtual de Kali y Kali-purple.
 
 ## Convenciones
 
@@ -29,7 +30,7 @@ Bienvenidos a su primer reto, cuyo fin es crear un laboratorio de pruebas para l
 Para este laboratorio **sólo se debe redactar el informe técnico** con capturas de pantalla de: 
 - La configuración de la red aislada.
 - La configuración IP de cada máquina.
-- `ping` entre las máquinas `red` y `blue` y hacía la máquina `bug`.
+- `ping` entre las máquinas `red` y `blue` y hacía la máquina `vbd`.
 - Realizar un `traceroute` desde la máquina `red` a una dirección de internet y analizar los saltos que hace un paquete para alcanzar el host.
 - El proceso de actualización de la máquina `red` y `blue`.
 - Dificultades encontradas en el proceso.
