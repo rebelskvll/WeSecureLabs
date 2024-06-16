@@ -36,7 +36,6 @@ Para este laboratorio **sólo se debe redactar el informe técnico** con captura
 - Dificultades encontradas en el proceso.
 - Conclusiones respecto a la creación de la red, la creación del `SOC` y la máquina `red`
 - Cualquier otro detalle técnico que consideren relevante.
-
 ## Recursos
 
 - Internet.
@@ -45,3 +44,7 @@ Para este laboratorio **sólo se debe redactar el informe técnico** con captura
 - [The "Real" Kali Purple Install (unedited RAW install footage](https://www.youtube.com/playlist?list=PLrESACtaWMXCveZmAJXoyEZSL26r_bSJR)]
 - La clase de `linux` de Tiziano (Pedir por mensaje directo el enlace).
 - El foro y los canales de la comunidad.
+
+## Extra
+
+Leer sobre `vsFTPd 2.3.4` 
