@@ -3,7 +3,7 @@
 Este es el repositorio que servirá como guía para los laboratorios de la comunidad de `WeSecure`. Tiene como finalidad poder crear un entorno de prácticas tanto para `blue team` como `red team` de manera segura y modular. Inicialmente está constituido por 4 máquinas:
 
 - [Kali Linux](https://www.kali.org/)
-- [Kali-blue](https://www.kali.org/blog/kali-linux-2023-1-release/)
+- [Kali-purple](https://www.kali.org/blog/kali-linux-2023-1-release/)
 - [OPNSense](https://opnsense.org/)
 - Alguna máquina `VbD (Vulnerable by Design)`
 

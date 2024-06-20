@@ -31,7 +31,7 @@ Bienvenidos a su primer reto, cuyo fin es crear un laboratorio de pruebas para l
 | -------------- | -------- | ------- |
 | OPNSense       | Firewall | Sí      |
 | Kali           | Red      | Sí      |
-| Kali-Blue      | Blue     | Sí      |
+| Kali-purple    | Blue     | Sí      |
 | Metasploitable | VbD      | No      |
 ## Informe
 
@@ -42,14 +42,14 @@ Para este laboratorio **sólo se debe redactar el informe técnico** con captura
 - Realizar un `traceroute` desde la máquina `red` a una dirección de internet y analizar los saltos que hace un paquete para alcanzar el host.
 - El proceso de actualización de la máquina `red` y `blue`.
 - Dificultades encontradas en el proceso.
-- Conclusiones respecto a la creación de la red, la creación del `SOC` y la máquina `red`
+- Conclusiones respecto a la creación de la red, la creación de la máquina `blue` y la máquina `red`
 - Cualquier otro detalle técnico que consideren relevante.
 ## Recursos
 
 - Internet.
-- [Wiki Kali-blue](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
+- [Wiki Kali-purple](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
 - [Kali-Purple : SOC In A Box Lab Series](https://www.youtube.com/watch?v=-tMY9GVvvsM&list=PLyJqGMYm0vnOxMapUGkt9DfU4aTTU2vqU)
-- [The "Real" Kali Purple Install (unedited RAW install footage](https://www.youtube.com/playlist?list=PLrESACtaWMXCveZmAJXoyEZSL26r_bSJR)]
+- [The "Real" Kali urple Install (unedited RAW install footage](https://www.youtube.com/playlist?list=PLrESACtaWMXCveZmAJXoyEZSL26r_bSJR)
 - La clase de `linux` de Tiziano (Pedir por mensaje directo el enlace).
 - El foro y los canales de la comunidad.
 
