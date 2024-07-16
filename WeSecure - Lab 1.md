@@ -15,10 +15,10 @@ En el [[WeSecure - Lab 0]] ya hemos configurado un entorno de red aislado con nu
 - Usar `metasploit` para explotar la vulnerabilidad ya mencionada.
 - Realizar una búsqueda en internet de exploits desarrollados para explotar esta vulnerabilidad.
 - Programar un exploit propio en el lenguaje de preferencia para explotar la vulnerabilidad.
-- Bloquear a nivel de `firewall` el acceso al puerto 21 como mitigación temporal para evitar que se explote esta vulnerabilidad.
+- Bloquear a nivel de `firewall` el acceso el puerto donde corre el servicio vulnerable como mitigación temporal para evitar que se explote esta vulnerabilidad.
 ## Informe
 
-Para este laboratorio se debe entregar informe técnico y de gerencia, incluyendo el código realizado en la actividad y el bloqueo del puerto 21, junto con la evidencia de que no se puede acceder a este puerto. 
+Para este laboratorio se debe entregar informe técnico y de gerencia, incluyendo el código realizado en la actividad y el bloqueo del puertodonde corre el servicio vulnerable, junto con la evidencia de que no se puede acceder a este puerto. 
 
 ## Recursos extra
 -  [Warning: Malicious version of FTP Software FileZilla stealing users' Credentials](https://thehackernews.com/2014/01/warning-malicious-version-of-ftp.html)
