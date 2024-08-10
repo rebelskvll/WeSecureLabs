@@ -3,7 +3,7 @@
 Bienvenidos a un nuevo laboratorio práctico de `WeSecure`. Para este laboratorio nuestra máquina `VbD` será una versión modificada de la máquina [mercury](https://www.vulnhub.com/entry/the-planets-mercury,544/) de `vulnhub`, la cual puede ser descargada [aquí](https://drive.google.com/file/d/1dAHmEwIUczl6WEGOWwzyPTYfEpBr4TUd/view?usp=sharing). 
 ## Objetivos
 
-- Aprender sobre enumeración.
+- Aprender sobre enumeración web a través del archivo `robots.txt`.
 - Aprender cómo explotar una vulnerabilidad `SQL Injection`.
 - Aprender sobre `password spraying`
 - Aprender sobre escalada de privilegios.
@@ -21,3 +21,4 @@ Para este laboratorio se debe entregar informe técnico y de gerencia, incluyend
 
 ## Recursos extra
 - [SQL injection](https://portswigger.net/web-security/sql-injection)
+- [robots.txt](https://portswigger.net/kb/issues/00600600_robots-txt-file)
