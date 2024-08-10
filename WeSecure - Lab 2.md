@@ -22,3 +22,5 @@ Para este laboratorio se debe entregar informe técnico y de gerencia, incluyend
 ## Recursos extra
 - [SQL injection](https://portswigger.net/web-security/sql-injection)
 - [robots.txt](https://portswigger.net/kb/issues/00600600_robots-txt-file)
+- [HuntingRobots](https://github.com/rebelskvll/HuntingRobots)
+- 
